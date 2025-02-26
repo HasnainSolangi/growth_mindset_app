@@ -1,6 +1,6 @@
 # 🌱 Growth Mindset Challenge Web App  
 
-**Live Demo**
+**Live Demo** [Growth Mindset App](https://growthmindsetapp-9izwsxorml72qcm3kxzvm8.streamlit.app/)
 
 ![steptodown com113165](https://github.com/user-attachments/assets/aaf166bc-7966-4f63-8cd6-737a16dac045)
 ### **🚀 Build a Growth Mindset with Daily Challenges & Motivation!**  
