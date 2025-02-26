@@ -24,10 +24,3 @@ This web app helps users develop a **growth mindset** through **daily challenges
 - **📦 Dependencies:** `streamlit`, `random`  
 
 ---
-
-## 🚀 **Installation & Setup**  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/growth-mindset-app.git
-cd growth-mindset-app
